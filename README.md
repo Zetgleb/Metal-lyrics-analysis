@@ -1,5 +1,5 @@
-# Metal lyrics generator 
-In this project we implemented 2 methods that are common in natural language processing: topic modelling and text generation for the lyrics data. 
+# Topic modelling 
+In this project we try to find topics using Latent Dirichlet Allocation in the songs lyrics.
 
 ## Data
 The was originally taken from Kaggle, which you can find [here](https://www.kaggle.com/gyani95/380000-lyrics-from-metrolyrics).
